@@ -9,6 +9,7 @@
 *	Microsoft Power BI
 *	OBIEE
 *	SSIS Packages
+[MIT_Data_Science_Professional_Certificate.pdf](https://github.com/user-attachments/files/18304066/MIT_Data_Science_Professional_Certificate.pdf)
 
 # Projects
 ## Capstone Project - Malaria Detection using Machine Learning model
@@ -23,6 +24,7 @@
 *	Ran multiple iterations with different Convolution layers, MaxPooling variable, Dropout layers , Loss Functions and Activation function.
 [Capastone Report](https://github.com/sourimva/Portfolio/blob/f1ec7b2ca9767db54551d5fdd1c9551fa856c884/Capstone_Malaria_Detection_DeepLearning_Final_Presentation.pdf)  
 
+![Accuracy_Plot](https://github.com/user-attachments/assets/5e70a614-3bb1-4543-9897-4445d5d86ad8)
 
 EDA using Python
 
