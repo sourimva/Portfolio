@@ -11,7 +11,7 @@
 *	SSIS Packages
 
 # Projects
-##Capstone Project - Malaria Detection using Machine Learning model
+## Capstone Project - Malaria Detection using Machine Learning model
 *	Utilized Python to analyze 28000 images to build a ML model with accuracy of over 98%.
 *	Implemented data cleaning, standardization methods using Python packages. 
 *	Normalized the images, Smoothen the images using an Average function. Converted the images to HSV scale.
