@@ -20,6 +20,8 @@
 *	Used CNN model( 13-21 layers) to train the model.
 *	Ran multiple iterations with different Convolution layers, MaxPooling variable, Dropout layers , Loss Functions and Activation function.
 
+  
+
 
 EDA using Python
 
