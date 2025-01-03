@@ -1,4 +1,15 @@
 # Portfolio
+# Skills
+•	SQL (Oracle, SQL Server, MySQL)
+•	Advanced SQL ( Stored Procedures, Functions, Views, Subqueries, Aggregates, CTEs)
+•	Python (Pandas, NumPy, SciPy, MatPlotLib)
+•	Tableau
+•	Crystal Reports
+•	Excel (XLookup, Conditional Formatting, Pivot Tables)
+•	Microsoft Power BI
+•	OBIEE
+•	SSIS Packages
+•	ETL 
 
 # Projects
 Capstone Project - Malaria Detection using Machine Learning model
