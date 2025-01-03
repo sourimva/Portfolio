@@ -12,6 +12,8 @@
 
 # Projects
 ## Capstone Project - Malaria Detection using Machine Learning model
+![Parasitic_image](https://github.com/user-attachments/assets/03ab4689-92f7-43f4-87b3-a28aab754735)
+
 *	Utilized Python to analyze 28000 images to build a ML model with accuracy of over 98%.
 *	Implemented data cleaning, standardization methods using Python packages. 
 *	Normalized the images, Smoothen the images using an Average function. Converted the images to HSV scale.
