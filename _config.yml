@@ -1,2 +1,5 @@
 title: Souri Maddipatti
-logo: /assets/img/selfpic.jpg
+#logo: /assets/img/selfpic.jpg
+description: Data Analyst 
+show_downloads: true
+theme: jekyll-theme-minimal
