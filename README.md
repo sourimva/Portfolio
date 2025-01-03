@@ -19,7 +19,7 @@
 *	Used OneHot encoding and Data Augmentation to Train the model.
 *	Used CNN model( 13-21 layers) to train the model.
 *	Ran multiple iterations with different Convolution layers, MaxPooling variable, Dropout layers , Loss Functions and Activation function.
-[embed]"https://github.com/sourimva/Portfolio/blob/f1ec7b2ca9767db54551d5fdd1c9551fa856c884/Capstone_Malaria_Detection_DeepLearning_Final_Presentation.pdf"[/embed]
+![embed]"https://github.com/sourimva/Portfolio/blob/f1ec7b2ca9767db54551d5fdd1c9551fa856c884/Capstone_Malaria_Detection_DeepLearning_Final_Presentation.pdf"[/embed]
   
 
 
