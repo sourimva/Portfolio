@@ -36,7 +36,7 @@ Data visualization using Excel pivot tables
 Reports using Crystal Report
 Interactive Charts/Graphs using Tableau
 
-![Data_Visualization_pic](https://github.com/user-attachments/assets/c71b1a17-3b2a-49b6-baeb-8f296f0ba027)
+![Data_Visualization_pic]((https://public.tableau.com/app/profile/souri.maddipatti2497/vizzes))
 
 # Business Analysis 
 Having over 10 years experience in Business Analysis.
