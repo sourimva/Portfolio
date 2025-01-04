@@ -26,7 +26,17 @@
   
 ![Accuracy_Plot](https://github.com/user-attachments/assets/5e70a614-3bb1-4543-9897-4445d5d86ad8)
 
-EDA using Python
+## EDA using Python
+*	Completed EDA on Data using Python libraries
+*	Imported data using Pandas.
+*	Explored the data using Python functions.
+*	Investigated relationships between Attributes. 
+*	Cleaned data for missing and irregular data using numpy library.
+*	Performed Univariant and Multivariant data analysis using Matplotlib and Seaborn libraries.
+*	Created Data Visualization utilizing Matplotlib to build Histograms, boxplots, countplot, heatmap, lineplot.
+*	Identified correlations between variables. 
+*	Provided a detailed analysis of data and recommendation.
+
 
 # SQL
 Extensive experience with SQL for data collection, Data Cleaning and EDA
