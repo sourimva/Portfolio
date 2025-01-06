@@ -47,6 +47,9 @@
 # SQL
 Extensive experience with SQL for data collection, Data Cleaning and EDA
 
+[Uploading SQL_Skills_Sample_Doc.txt…]()
+
+
 # Visualization
 Data visualization using Excel pivot tables
 Reports using Crystal Report
