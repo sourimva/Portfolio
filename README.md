@@ -47,7 +47,8 @@
 # SQL
 Extensive experience with SQL for data collection, Data Cleaning and EDA
 
-[Uploading SQL_Skills_Sample_Doc.txt](SQL_Skills_Sample_Doc.txt)
+[SQL_Skills_Sample_Doc.pdf](https://github.com/user-attachments/files/18321960/SQL_Skills_Sample_Doc.pdf)
+
 
 
 # Visualization
