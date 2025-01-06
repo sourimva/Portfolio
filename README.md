@@ -1,4 +1,10 @@
 # Portfolio
+# Summary
+-	A data analyst with over 5 years of experience in SQL, Reporting
+-	Extensive experience in building complex SQL queries, data cleaning and augmenting data.
+-	Worked with Excel for data loads, pivot tables, charts and tables.
+-	With deep understanding of databases and data modelling techniques
+
 # Skills
 * SQL (Oracle, SQL Server, MySQL)
 *	Advanced SQL ( Stored Procedures, Functions, Views, Subqueries, Aggregates, CTEs)
