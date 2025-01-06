@@ -42,6 +42,7 @@
 *	Created Data Visualization utilizing Matplotlib to build Histograms, boxplots, countplot, heatmap, lineplot.
 *	Identified correlations between variables. 
 *	Provided a detailed analysis of data and recommendation.
+[Exploratory_Data_Analysis_Uber_Case_study.pdf](https://github.com/user-attachments/files/18324159/Exploratory_Data_Analysis_Uber_Case_study.pdf)
 
 
 # SQL
@@ -55,8 +56,7 @@ Extensive experience with SQL for data collection, Data Cleaning and EDA
 Data visualization using Excel pivot tables
 Reports using Crystal Report
 Interactive Charts/Graphs using Tableau
-
-![Data Visualizations - Tableau](https://public.tableau.com/app/profile/souri.maddipatti2497/vizzes)
+[Data_Visaualization_Tableau.pdf](https://github.com/user-attachments/files/18321999/Data_Visaualization_Tableau.pdf)
 
 # Business Analysis 
 Having over 10 years experience in Business Analysis.
