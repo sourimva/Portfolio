@@ -47,7 +47,7 @@
 # SQL
 Extensive experience with SQL for data collection, Data Cleaning and EDA
 
-[Uploading SQL_Skills_Sample_Doc.txt…]()
+[Uploading SQL_Skills_Sample_Doc.txt](SQL_Skills_Sample_Doc.txt)
 
 
 # Visualization
